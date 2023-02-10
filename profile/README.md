@@ -1,1 +1,1 @@
-Coen is a WIP programmable markdown inspired by [LISP](https://en.wikipedia.org/wiki/Lisp_(programming_language)). You can set your own replacement rules, which will then be converted to any other format (PDF via TeX/Groff, HTML, for instance).
+Coen is a RegEx-based pseudo-programmable markdown written in Rust that acts as an abstraction layer for any other language.
